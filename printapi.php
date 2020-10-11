@@ -1,5 +1,7 @@
 <?php
 
+namespace PrintApi;
+
 /**
  * A simple Print API REST client.
  *
